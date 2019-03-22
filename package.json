@@ -1,0 +1,6 @@
+{
+  "name": "@dhis2/create-app",
+  "description": "D2 frontend application bootstrapping inspired by create-react-app",
+  "license": "BSD-3-Clause",
+  "version": "0.12.0"
+}
